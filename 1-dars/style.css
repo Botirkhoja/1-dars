@@ -1,0 +1,35 @@
+.p{
+    font-size: 30px;
+    color: #BDB76B;
+    background-color: #6495ED;
+    border: 2px solid black;
+}
+
+.pa{
+    margin-left: 6000px;
+    width: 110px;
+    height: 50px;
+    font-size: 20px;
+    color: red;
+    background-color: #0000CD;
+    text-align: center;
+}
+
+.pa:hover{
+    background-color:darkslategray;
+    border-radius: 30px;
+}
+
+.ap{
+    font-size: 40px;
+    color:aqua;
+    background-color:blueviolet;
+    transition: 1s;
+}
+
+.ap:active{
+    font-size: 50px;
+    color:#BDB76B;
+    background-color:#6495ED;
+    transition: 1s;
+}
